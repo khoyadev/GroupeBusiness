@@ -61,3 +61,5 @@ Notre solution vise à :
 Membres du projet
 
 Projet développé dans le cadre du cours GET409 par l’équipe Groupe Business.
+
+Carte d'empathie
