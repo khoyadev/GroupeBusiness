@@ -63,10 +63,23 @@ Notre solution vise à :
 
 ---
 
-## 📎 Ressources
+## Livrables S1
 
-- 📄 [Carte d'empathie](./carte-empathie.md)
-- 👥 [Liste de l'équipe](./liste-equipe.md)
+- [x] Fiche équipe → [Voir le fichier](docs/fiche-equipe.md)
+- [x] Dépôt GitHub public créé
+- [x] Carte d'empathie → [Voir le fichier](docs/carte-empathie.md)
+- [x] Énoncé HMW validé
+
+---
+
+## Architecture du dépôt
+
+```
+GET409-NiayesBiz/
+├── README.md
+└── docs/
+    ├── fiche-equipe.md
+    └── carte-empathie.md
 
 ---
 
