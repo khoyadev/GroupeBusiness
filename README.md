@@ -75,7 +75,7 @@ Notre solution vise à :
 ## Architecture du dépôt
 
 ```
-GET409-NiayesBiz/
+GET409-GroupeBusiness/
 ├── README.md
 └── docs/
     ├── fiche-equipe.md
