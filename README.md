@@ -1,65 +1,73 @@
-ET409 — Groupe Business
+# 🚀 GROUPE BUSINESS
 
-Notre équipe
+> Plateforme de mise en relation entre prestataires de services et clients — Dakar, Sénégal.
 
-Prénom Nom	Rôle	GitHub
-Merveille Atipot	Product Manager (PM)	@merveilleatipot
-Fatima	Prompt Engineer	@fatima
-Elhadji Omar Diallo	Développeur UI	@elhadjiomardiallo
-Rokhaya	Responsable Impact	@rokhaya
+---
 
-⸻
+## 👥 Notre équipe
 
-Notre défi
+| Prénom Nom | Rôle | GitHub |
+|---|---|---|
+| **Merveille Atipot** | Product Manager (PM) | [@merveilleatipot](https://github.com/merveilleatipot) |
+| **Fatima** | Prompt Engineer | [@fatima](https://github.com/fatima) |
+| **Elhadji Omar Diallo** | Développeur UI | [@elhadjiomardiallo](https://github.com/elhadjiomardiallo) |
+| **Rokhaya** | Responsable Impact | [@rokhaya](https://github.com/rokhaya) |
 
-Secteur : Services numériques / Mise en relation de prestataires et clients
+---
 
-Problème :
-De nombreux clients rencontrent des difficultés pour trouver rapidement des prestataires de services fiables, tandis que les prestataires ont du mal à accroître leur visibilité et à trouver de nouveaux clients.
+## 🎯 Notre défi
 
-HMW (How Might We) :
-Comment pourrions-nous faciliter la mise en relation entre les prestataires de services et les clients afin de rendre la recherche, la sélection et la collaboration plus simples, rapides et fiables ?
+**Secteur :** Services numériques · Mise en relation prestataires & clients
 
-⸻
+**Problème :**
+De nombreux clients peinent à trouver rapidement des prestataires fiables, tandis que les prestataires ont du mal à accroître leur visibilité et à développer leur clientèle.
 
-Présentation du projet
+**❓ HMW — How Might We :**
+> Comment pourrions-nous faciliter la mise en relation entre prestataires et clients afin de rendre la recherche, la sélection et la collaboration plus simples, rapides et fiables ?
 
-Groupe Business est une plateforme numérique qui permet de mettre en relation des prestataires de services et des clients. L’application facilite la recherche de professionnels qualifiés, la publication de besoins, la communication entre les parties et le développement d’opportunités commerciales.
+---
 
-Fonctionnalités principales
+## 📦 Présentation du projet
 
-* Recherche de prestataires par catégorie de service
-* Publication de demandes de services par les clients
-* Mise en relation rapide entre clients et prestataires
-* Messagerie et prise de contact
-* Système d’évaluation et de confiance
-* Gestion des profils professionnels
+**Groupe Business** est une plateforme numérique qui connecte prestataires de services et clients. Elle facilite la recherche de professionnels qualifiés, la publication de besoins, la communication entre les parties et le développement d'opportunités commerciales.
 
-⸻
+### ✨ Fonctionnalités principales
 
-Livrables S1
+- 🔍 Recherche de prestataires par catégorie de service
+- 📢 Publication de demandes de services par les clients
+- ⚡ Mise en relation rapide entre clients et prestataires
+- 💬 Messagerie et prise de contact directe
+- ⭐ Système d'évaluation et de confiance
+- 👤 Gestion des profils professionnels
 
-* Fiche équipe soumise
-* Carte d’empathie
-* Énoncé HMW
-* Recherche utilisateur
-* Définition des personas
+---
 
-⸻
+## 📋 Livrables S1
 
-Vision d’impact
+- [x] Fiche équipe soumise
+- [x] Carte d'empathie
+- [x] Énoncé HMW
+- [x] Recherche utilisateur
+- [x] Définition des personas
+
+---
+
+## 🌍 Vision d'impact
 
 Notre solution vise à :
 
-* Faciliter l’accès aux services pour les particuliers et les entreprises.
-* Augmenter la visibilité et les opportunités économiques des prestataires.
-* Renforcer la confiance dans les transactions de services.
-* Favoriser l’emploi et l’entrepreneuriat local.
+- **Faciliter l'accès aux services** pour les particuliers et les entreprises.
+- **Augmenter la visibilité** et les opportunités économiques des prestataires.
+- **Renforcer la confiance** dans les transactions de services.
+- **Favoriser l'emploi et l'entrepreneuriat local** au Sénégal.
 
-⸻
+---
 
-Membres du projet
+## 📎 Ressources
 
-Projet développé dans le cadre du cours GET409 par l’équipe Groupe Business.
+- 📄 [Carte d'empathie](./carte-empathie.md)
+- 👥 [Liste de l'équipe](./liste-equipe.md)
 
-Carte d'empathie
+---
+
+> Projet développé dans le cadre du cours **GET409** par l'équipe **Groupe Business**.
