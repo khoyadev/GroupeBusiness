@@ -9,9 +9,9 @@
 | Prénom Nom | Rôle | GitHub |
 |---|---|---|
 | **Merveille Atipot** | Product Manager (PM) | [@merveilleatipot](https://github.com/merveilleatipot) |
-| **Fatima** | Prompt Engineer | [@fatima](https://github.com/fatima) |
+| **Fatima Ndiouck** | Prompt Engineer | [@fatima](https://github.com/fatima) |
 | **Elhadji Omar Diallo** | Développeur UI | [@elhadjiomardiallo](https://github.com/elhadjiomardiallo) |
-| **Rokhaya** | Responsable Impact | [@rokhaya](https://github.com/rokhaya) |
+| **Rokhaya Gueye** | Responsable Impact | [@rokhaya](https://github.com/rokhaya) |
 
 ---
 
@@ -82,5 +82,25 @@ GET409-GroupeBusiness/
     └── carte-empathie.md
 
 ---
+
+## Notre défi — HMW Définitif S2
+
+"Comment pourrions-nous faciliter la mise en relation entre prestataires de services et clients à Dakar,
+en construisant un système de confiance adapté aux usages mobiles locaux,
+afin que la recherche, la sélection et la collaboration soient plus simples,
+rapides et fiables — y compris pour les prestataires peu connectés ?"
+
+## Livrables S2
+
+| Fichier | Contenu |
+|---|---|
+| docs/chapeaux-bono.md | 6 Chapeaux de Bono |
+| docs/contraintes-mvp.md | Contraintes non négociables |
+| docs/hypotheses-validation.md | Hypothèses à tester en S3 |
+| docs/metriques-succes.md | Métriques de succès S6 |
+| docs/vpc.md | Value Proposition Canvas |
+| docs/vpc-connections.md | Traçabilité Chapeaux → VPC |
+| docs/backlog-s3.md | User stories S3 |
+| docs/hmw-definitif.md | HMW définitif validé |
 
 > Projet développé dans le cadre du cours **GET409** par l'équipe **Groupe Business**.
