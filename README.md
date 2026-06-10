@@ -81,8 +81,6 @@ GET409-GroupeBusiness/
     ├── fiche-equipe.md
     └── carte-empathie.md
 
----
-
 ## Notre défi — HMW Définitif S2
 
 "Comment pourrions-nous faciliter la mise en relation entre prestataires de services et clients à Dakar,
